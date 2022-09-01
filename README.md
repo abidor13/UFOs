@@ -2,15 +2,15 @@
 
 ## Overview of the UFO Project
 
-### In this project we helped Dana develop her "UFO Sightings" Webpage. We built a webpage that is interactive and dynamic, it accepts users' inputs and visually adjusts to reflect the interactions. We were able to build this by utilizing JavaScript and inserting it into HTML page, we also used our knowledge of CSS and Bootstrap to style the page, as well as some Chrom DevTools to test our code. 
+#### In this project we helped Dana develop her "UFO Sightings" Webpage. We built a webpage that is interactive and dynamic, it accepts users' inputs and visually adjusts to reflect the interactions. We were able to build this by utilizing JavaScript and inserting it into HTML page, we also used our knowledge of CSS and Bootstrap to style the page, as well as some Chrom DevTools to test our code. 
 
-### Dana's initial webpage was already working as intended, and filtered data based on the dates provided by the users, however, she wanted to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, we added table filters for the city, state, country, and shape.
+#### Dana's initial webpage was already working as intended, and filtered data based on the dates provided by the users, however, she wanted to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, we added table filters for the city, state, country, and shape.
 
 ## Results
 
-### Our code allows us and the users to filter data from the UFO webpage by inputting different filters.
-### Users can now browse the webpage and look for results based on date, city, state, country or shape.
-### Users can do so by accessing the page from index.html, then under the filter search table, they can specify what they're looking for. Multiple filters could be used at once as well as single filtering.
+#### Our code allows us and the users to filter data from the UFO webpage by inputting different filters.
+#### Users can now browse the webpage and look for results based on date, city, state, country or shape.
+#### Users can do so by accessing the page from index.html, then under the filter search table, they can specify what they're looking for. Multiple filters could be used at once as well as single filtering.
 
 
 ### The picture below displays all results before filtering:
